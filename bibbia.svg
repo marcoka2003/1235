@@ -7,78 +7,95 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg432"
+   inkscape:export-ydpi="113.154"
+   inkscape:export-xdpi="113.154"
+   inkscape:export-filename="C:\Users\marco\Desktop\github\1235\1235\bibbia.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="bibbia.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   id="svg432"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="210mm"
+   width="297mm">
   <defs
      id="defs426">
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible;"
-       id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lend">
-      <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path1018" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path1015" />
-    </marker>
-    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend-8"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1018"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
-         id="path1018-6"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1015"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1018-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1018-1" />
     </marker>
   </defs>
   <sodipodi:namedview
-     showguides="false"
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.9123495"
-     inkscape:cx="300.33846"
-     inkscape:cy="738.1592"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-maximized="1"
      inkscape:window-y="41"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="579.19361"
+     inkscape:cx="-255.15957"
+     inkscape:zoom="0.65305011"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showguides="false" />
   <metadata
      id="metadata429">
     <rdf:RDF>
@@ -87,217 +104,401 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <rect
-       y="4.5359459"
-       x="-104.26543"
-       height="291.05649"
-       width="416.173"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.374784;paint-order:stroke markers fill"
        id="rect51"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.374784;paint-order:stroke markers fill" />
+       width="416.173"
+       height="291.05649"
+       x="-104.26543"
+       y="4.5359459" />
     <text
-       id="text9"
-       y="75.978249"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
        x="68.002953"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       xml:space="preserve"><tspan
-         style="stroke-width:10.3911"
-         y="75.978249"
-         x="68.002953"
+       y="75.978249"
+       id="text9"><tspan
+         sodipodi:role="line"
          id="tspan7"
-         sodipodi:role="line">statue preghiere leggere libri etc</tspan></text>
+         x="68.002953"
+         y="75.978249"
+         style="stroke-width:10.3911">statue preghiere leggere libri etc</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:12.0444px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:8.25637"
-       x="72.931961"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-6"
        y="25.251535"
-       id="text9-6"><tspan
-         sodipodi:role="line"
-         id="tspan7-0"
-         x="72.931961"
+       x="72.931961"
+       style="font-weight:bold;font-size:12.0444px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:8.25637"
+       xml:space="preserve"><tspan
+         style="stroke-width:8.25637"
          y="25.251535"
-         style="stroke-width:8.25637">immobili, preti pedofili, papa ha detto</tspan></text>
+         x="72.931961"
+         id="tspan7-0"
+         sodipodi:role="line">immobili, preti pedofili, papa ha detto</tspan></text>
     <path
-       id="path835"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:none;stroke:#000000;stroke-width:0.528847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -83.774377,77.599536 -25.714673,282.92018 32.781575,60.080707"
-       style="fill:none;stroke:#000000;stroke-width:0.528847px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       id="path835" />
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       x="77.300278"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3"
        y="110.34732"
-       id="text9-3"><tspan
-         sodipodi:role="line"
-         id="tspan7-2"
-         x="77.300278"
+       x="77.300278"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
+       xml:space="preserve"><tspan
+         style="stroke-width:10.3911"
          y="110.34732"
-         style="stroke-width:10.3911">leggere bibbia</tspan></text>
+         x="77.300278"
+         id="tspan7-2"
+         sodipodi:role="line">leggere bibbia</tspan></text>
     <path
-       id="path855"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:#000000;stroke:#ff0000;stroke-width:1.50621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -94.261751,169.0404 c 190.194795,0 385.868451,0 385.868451,0"
-       style="fill:#000000;stroke:#ff0000;stroke-width:1.50621;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="path855" />
     <text
-       id="text9-3-2"
-       y="129.4632"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
        x="178.96346"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       xml:space="preserve"><tspan
-         style="stroke-width:10.3911"
-         y="129.4632"
-         x="178.96346"
+       y="129.4632"
+       id="text9-3-2"><tspan
+         sodipodi:role="line"
          id="tspan7-2-1"
-         sodipodi:role="line">preti NT</tspan></text>
+         x="178.96346"
+         y="129.4632"
+         style="stroke-width:10.3911">preti NT</tspan></text>
     <text
-       id="text9-3-8"
-       y="125.03558"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
        x="56.651295"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       xml:space="preserve"><tspan
-         style="stroke-width:10.3911"
-         y="125.03558"
-         x="56.651295"
+       y="125.03558"
+       id="text9-3-8"><tspan
+         sodipodi:role="line"
          id="tspan7-2-13"
-         sodipodi:role="line">AT non capito</tspan></text>
+         x="56.651295"
+         y="125.03558"
+         style="stroke-width:10.3911">AT non capito</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       x="69.685402"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-7"
        y="209.81317"
-       id="text9-3-8-7"><tspan
-         sodipodi:role="line"
-         id="tspan7-2-13-7"
-         x="69.685402"
+       x="69.685402"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
+       xml:space="preserve"><tspan
+         style="stroke-width:10.3911"
          y="209.81317"
-         style="stroke-width:10.3911">BIGLINO</tspan></text>
+         x="69.685402"
+         id="tspan7-2-13-7"
+         sodipodi:role="line">BIGLINO</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       x="56.40263"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-0"
        y="197.36058"
-       id="text9-3-8-0"><tspan
-         sodipodi:role="line"
-         id="tspan7-2-13-76"
-         x="56.40263"
+       x="56.40263"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
+       xml:space="preserve"><tspan
+         style="stroke-width:10.3911"
          y="197.36058"
-         style="stroke-width:10.3911">non capibile</tspan></text>
+         x="56.40263"
+         id="tspan7-2-13-76"
+         sodipodi:role="line">non capibile</tspan></text>
     <rect
-       y="216.95189"
-       x="83.427856"
-       height="36.250889"
-       width="38.741409"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.50622;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect919"
-       style="fill:#ff0000;stroke:#000000;stroke-width:1.50622;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" />
+       width="38.741409"
+       height="36.250889"
+       x="83.427856"
+       y="216.95189" />
     <rect
-       y="141.95958"
-       x="93.666649"
-       height="24.628466"
-       width="34.037094"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.50622;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
        id="rect921"
-       style="fill:#ff0000;stroke:#000000;stroke-width:1.50622;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill" />
+       width="34.037094"
+       height="24.628466"
+       x="93.666649"
+       y="141.95958" />
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:6.02994px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:4.1335"
-       x="100.68446"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-6"
        y="148.48734"
-       id="text9-3-8-6"><tspan
-         sodipodi:role="line"
-         id="tspan7-2-13-3"
-         x="100.68446"
+       x="100.68446"
+       style="font-weight:bold;font-size:6.02994px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:4.1335"
+       xml:space="preserve"><tspan
+         style="stroke-width:4.1335"
          y="148.48734"
-         style="stroke-width:4.1335">tradotto</tspan></text>
+         x="100.68446"
+         id="tspan7-2-13-3"
+         sodipodi:role="line">tradotto</tspan></text>
     <text
-       id="text9-3-8-7-9"
-       y="262.81836"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
        x="-31.45603"
-       style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       xml:space="preserve"><tspan
-         style="stroke-width:10.3911"
-         y="262.81836"
-         x="-31.45603"
+       y="262.81836"
+       id="text9-3-8-7-9"><tspan
+         sodipodi:role="line"
          id="tspan7-2-13-7-6"
-         sodipodi:role="line">heloim</tspan></text>
+         x="-31.45603"
+         y="262.81836"
+         style="stroke-width:10.3911">heloim</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:7.4684px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.11956"
-       x="-104.45927"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-7-9-4"
        y="223.49277"
-       id="text9-3-8-7-9-4"><tspan
-         sodipodi:role="line"
-         id="tspan7-2-13-7-6-8"
-         x="-104.45927"
+       x="-104.45927"
+       style="font-weight:bold;font-size:7.4684px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.11956"
+       xml:space="preserve"><tspan
+         style="stroke-width:5.11956"
          y="223.49277"
-         style="stroke-width:5.11956">10 vocaboli+ importanti</tspan></text>
+         x="-104.45927"
+         id="tspan7-2-13-7-6-8"
+         sodipodi:role="line">10 vocaboli+ importanti</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:7.62782px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22885"
-       x="-50.644749"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-7-9-8"
        y="187.00996"
-       id="text9-3-8-7-9-8"><tspan
-         sodipodi:role="line"
-         id="tspan7-2-13-7-6-9"
-         x="-50.644749"
+       x="-50.644749"
+       style="font-weight:bold;font-size:7.62782px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22885"
+       xml:space="preserve"><tspan
+         style="stroke-width:5.22885"
          y="187.00996"
-         style="stroke-width:5.22885">malakim= angelo inventato eccezione</tspan></text>
+         x="-50.644749"
+         id="tspan7-2-13-7-6-9"
+         sodipodi:role="line">malakim= angelo inventato eccezione</tspan></text>
     <text
-       id="text9-3-8-7-2"
-       y="240.64107"
-       x="75.672249"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
        style="font-weight:bold;font-size:15.1585px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:10.3911"
-       xml:space="preserve"><tspan
-         style="stroke-width:10.3911"
-         y="240.64107"
-         x="75.672249"
+       x="75.672249"
+       y="240.64107"
+       id="text9-3-8-7-2"><tspan
+         sodipodi:role="line"
          id="tspan7-2-13-7-8"
-         sodipodi:role="line">ebraico</tspan></text>
+         x="75.672249"
+         y="240.64107"
+         style="stroke-width:10.3911">ebraico</tspan></text>
     <path
-       sodipodi:nodetypes="cc"
-       id="path1013"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
        d="M 71.528709,240.19673 -69.600705,229.40448"
-       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+       id="path1013"
+       sodipodi:nodetypes="cc" />
     <path
-       sodipodi:nodetypes="cc"
-       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="path1013-5"
        d="m -77.54469,226.22837 40.9552,29.33278"
-       id="path1013-5" />
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-8)"
+       sodipodi:nodetypes="cc" />
     <text
-       id="text9-3-8-7-9-8-6"
-       y="272.56384"
-       x="-14.989187"
-       style="font-weight:bold;font-size:7.62781px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22883"
-       xml:space="preserve"><tspan
-         style="stroke-width:5.22883"
-         y="272.56384"
-         x="-14.989187"
-         id="tspan7-2-13-7-6-9-0"
-         sodipodi:role="line">salmi 82 padre degli dei , dei sono mortali</tspan></text>
-    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
        xml:space="preserve"
        style="font-weight:bold;font-size:7.62781px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22883"
-       x="-20.29398"
-       y="283.36725"
-       id="text9-3-8-7-9-8-6-7"><tspan
+       x="-14.989187"
+       y="272.56384"
+       id="text9-3-8-7-9-8-6"><tspan
          sodipodi:role="line"
-         id="tspan7-2-13-7-6-9-0-2"
-         x="-20.29398"
-         y="283.36725"
-         style="stroke-width:5.22883">salmi 8.5 tutte false, heloim=angeli...</tspan></text>
+         id="tspan7-2-13-7-6-9-0"
+         x="-14.989187"
+         y="272.56384"
+         style="stroke-width:5.22883">salmi 82 padre degli dei , dei sono mortali</tspan></text>
     <text
-       id="text9-3-8-7-9-8-6-7-1"
-       y="294.11478"
-       x="-26.282934"
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text9-3-8-7-9-8-6-7"
+       y="283.36725"
+       x="-20.29398"
        style="font-weight:bold;font-size:7.62781px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22883"
        xml:space="preserve"><tspan
          style="stroke-width:5.22883"
-         y="294.11478"
-         x="-26.282934"
+         y="283.36725"
+         x="-20.29398"
+         id="tspan7-2-13-7-6-9-0-2"
+         sodipodi:role="line">salmi 8.5 tutte false, heloim=angeli...</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.62781px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:5.22883"
+       x="-26.282934"
+       y="294.11478"
+       id="text9-3-8-7-9-8-6-7-1"><tspan
+         sodipodi:role="line"
          id="tspan7-2-13-7-6-9-0-2-3"
-         sodipodi:role="line">non ci sono certezze, solo pezzetti statue o no </tspan></text>
+         x="-26.282934"
+         y="294.11478"
+         style="stroke-width:5.22883">non ci sono certezze, solo pezzetti statue o no </tspan></text>
+    <path
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       sodipodi:nodetypes="cc"
+       id="path1013-9"
+       d="m -73.639387,213.9475 -7.620874,-57.77809"
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)" />
+    <path
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       sodipodi:nodetypes="ccc"
+       id="path968"
+       d="m -74.431025,109.39611 c 47.604928,-11.194725 37.798352,26.32069 39.301567,60.16787 v 0"
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text972"
+       y="131.33063"
+       x="-94.074486"
+       style="font-weight:bold;font-size:5.30651px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00ff00;stroke-width:3.63761"
+       xml:space="preserve"><tspan
+         style="fill:#00ff00;stroke-width:3.63761"
+         y="131.33063"
+         x="-94.074486"
+         id="tspan970"
+         sodipodi:role="line">dark side storia</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.30652px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00ff00;stroke-width:3.63761"
+       x="192.38698"
+       y="139.62622"
+       id="text972-0"><tspan
+         sodipodi:role="line"
+         id="tspan970-0"
+         x="192.38698"
+         y="139.62622"
+         style="fill:#00ff00;stroke-width:3.63761">bugie</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text972-0-0"
+       y="148.41788"
+       x="-93.614967"
+       style="font-weight:bold;font-size:5.30652px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00ff00;stroke-width:3.63761"
+       xml:space="preserve"><tspan
+         style="fill:#00ff00;stroke-width:3.63761"
+         y="148.41788"
+         x="-93.614967"
+         id="tspan970-0-9"
+         sodipodi:role="line">2. pietro killer anania</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.30652px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:3.63761"
+       x="-102.22237"
+       y="155.75371"
+       id="text972-0-0-5"><tspan
+         sodipodi:role="line"
+         id="tspan970-0-9-3"
+         x="-102.22237"
+         y="155.75371"
+         style="stroke-width:3.63761">...</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text972-0-2"
+       y="140.51704"
+       x="-96.65374"
+       style="font-weight:bold;font-size:5.30652px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00ff00;stroke-width:3.63761"
+       xml:space="preserve"><tspan
+         style="fill:#00ff00;stroke-width:3.63761"
+         y="140.51704"
+         x="-96.65374"
+         id="tspan970-0-3"
+         sodipodi:role="line">xke gesu in crocie-roma messia</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text1048"
+       y="231.61067"
+       x="167.36154"
+       style="font-weight:bold;font-size:12.2784px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:8.41681"
+       xml:space="preserve"><tspan
+         style="stroke-width:8.41681"
+         y="231.61067"
+         x="167.36154"
+         id="tspan1046"
+         sodipodi:role="line">teorie</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.2784px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:8.4168"
+       x="212.46463"
+       y="216.33189"
+       id="text1048-9"><tspan
+         sodipodi:role="line"
+         id="tspan1046-1"
+         x="212.46463"
+         y="216.33189"
+         style="stroke-width:8.4168">oro abbandonata</tspan></text>
+    <text
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="text1048-9-6"
+       y="233.52184"
+       x="204.37933"
+       style="font-weight:bold;font-size:12.2784px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Bold';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:8.4168"
+       xml:space="preserve"><tspan
+         style="stroke-width:8.4168"
+         y="233.52184"
+         x="204.37933"
+         id="tspan1046-1-2"
+         sodipodi:role="line">paleo astronavi</tspan><tspan
+         id="tspan1104"
+         style="stroke-width:8.4168"
+         y="245.80023"
+         x="204.37933"
+         sodipodi:role="line">dna clonazioni..</tspan><tspan
+         id="tspan1106"
+         style="stroke-width:8.4168"
+         y="258.07864"
+         x="204.37933"
+         sodipodi:role="line">resi umani</tspan></text>
+    <path
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="path1108"
+       d="m 202.10552,202.8413 c 92.25267,61.88379 111.73461,69.90576 111.73461,69.90576"
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="113.154"
+       inkscape:export-xdpi="113.154"
+       id="path1110"
+       d="m 182.05059,268.16307 c 45.83984,-10.31396 111.16163,-61.88378 111.16163,-61.88378"
+       style="fill:none;stroke:#000000;stroke-width:0.374196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
